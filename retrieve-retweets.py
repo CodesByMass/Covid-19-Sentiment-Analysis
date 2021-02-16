@@ -2,10 +2,10 @@ import tweepy as tw
 import csv
 import time
 
-consumer_key = "grrplDEVqTn9C2M4IaxxuOpj2" 
-consumer_secret = "nNkvh2eAV9L97axJaQznvPfTJs7PZWKZ18rKfIezFFs1JtAugB"
-access_token = "1118031236-WJXUjktWkt0YhgwOA8A4akQiTQxf8BIFxL3do9Y"
-access_token_secret = "A0v6Le5G4qTPOuKfhAHzT7TWsR5sUx3UuN6QciWiboM2I"
+consumer_key = "" 
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 # authorization of consumer key and consumer secret 
 auth = tw.OAuthHandler(consumer_key, consumer_secret) 
